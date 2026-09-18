@@ -4,11 +4,6 @@
       "version": "4.0.0",
       "resolved": "ghcr.io/devcontainer-config/features/dot-config@sha256:d9ca770ccb218e619d5725fd50f00dfacdf582d92a8c3901f11b53b1caddd878",
       "integrity": "sha256:d9ca770ccb218e619d5725fd50f00dfacdf582d92a8c3901f11b53b1caddd878"
-    },
-    "ghcr.io/devcontainers/features/git-lfs:1": {
-      "version": "1.2.5",
-      "resolved": "ghcr.io/devcontainers/features/git-lfs@sha256:71c2b371cf12ab7fcec47cf17369c6f59156100dad9abf9e4c593049d789de72",
-      "integrity": "sha256:71c2b371cf12ab7fcec47cf17369c6f59156100dad9abf9e4c593049d789de72"
     }
   }
 }
